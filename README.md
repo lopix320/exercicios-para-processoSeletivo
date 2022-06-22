@@ -15,6 +15,6 @@ Va nesse link:
 
 Instale a versão do miniconda de acordo com sua máquina.
 
-Quando abrir o arquivo executavel, marque essa opção:
+Quando abrir o arquivo executavel, marque a opção em que a seta vermelha está apontando:
 
 <img src="https://github.com/lopix320/exercicios-para-processoSeletivo/blob/main/Miniconda_Installer.png"><img>
