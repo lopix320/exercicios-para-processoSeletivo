@@ -12,3 +12,5 @@ Abra o terminal dentro da pasta onde está o arquivo e digite:
 Va nesse link:
 
 ### `https://docs.conda.io/en/latest/miniconda.html`
+
+Instale a versão do miniconda de acordo com sua máquina
