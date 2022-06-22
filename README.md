@@ -17,5 +17,4 @@ Instale a versão do miniconda de acordo com sua máquina.
 
 Quando abrir o arquivo executavel, marque essa opção:
 
-![alt text]("github.com/lopix320/exercicios-para-processoSeletivo/blob/main/Captura%20de%20tela%202022-06-22%20203242.png")
-
+<img src="https://github.com/lopix320/exercicios-para-processoSeletivo/blob/main/Captura%20de%20tela%202022-06-22%20203242.png"><img>
