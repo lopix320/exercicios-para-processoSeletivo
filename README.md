@@ -4,5 +4,5 @@
 
 Recomendo rodar python pelo terminar:
 
-Digite no terminal dentro da pasta onde está o arquivo que deseja rodar:
+Abra o terminal dentro da pasta onde está o arquivo e digite:
 `python <nome_do_arquvio>`
