@@ -13,4 +13,9 @@ Va nesse link:
 
 ### `https://docs.conda.io/en/latest/miniconda.html`
 
-Instale a versão do miniconda de acordo com sua máquina
+Instale a versão do miniconda de acordo com sua máquina.
+
+Quando abrir o arquivo executavel, marque essa opção:
+
+![alt text]("")
+
