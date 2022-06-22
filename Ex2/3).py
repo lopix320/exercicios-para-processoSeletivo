@@ -1,5 +1,4 @@
 import json
-from re import I
 
 diasMaioresMedia = 0
 valorMaior = 0
